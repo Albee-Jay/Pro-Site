@@ -1,7 +1,7 @@
 # Pro-Site
 A personal website project under the Gateway Technical College 'Full Stack Web Developer' curriculum.
 
-This site was built with a lot of HTML, some CSS and a tiny bit of JavaScript (that is not the greatest).
+This site was built with a lot of HTML, some CSS and a tiny bit of JavaScript (that is not the greatest, Lol).
 
 See it here live: https://albee-jay.github.io/Pro-Site/
 
